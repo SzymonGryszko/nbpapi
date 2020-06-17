@@ -8,5 +8,6 @@ To run this project, built it using commands:<br/>
 `mvn pckage`
 <br/>
 `nbpapi-1.0-SNAPSHOT.jar`
+<br/>
 ##Author info
 Szymon Grszko
